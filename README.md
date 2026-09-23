@@ -6,10 +6,9 @@ Email Me 👉 ✉️ **abhisheksh798586@gmail.com** For Collaboration/Project or
 - 🔭 **I’m currently working on:** DriveGo
 - 🌱 **I’m currently learning:** Frontend development
 - 👯 **I’m looking to collaborate on:** DriveGo , booking cars and drivers
-- 🤔 **I’m looking for help with:** Your project here
 - 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** Enter your email here
-- 😄 **Pronouns:** Imran Sir
+- 📫 **How to reach me:** abhisheksh798586@gmail.com
+- 😄 **Pronouns:** Abhishek
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
 ## 🏆 GitHub Trophies
